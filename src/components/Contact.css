@@ -1,0 +1,42 @@
+.contactForm {
+  width: 300px;
+  padding: 30px;
+  margin: auto;
+  background-color: lightgrey;
+  border-radius: 30px;
+}
+
+.contactForm label{
+  display: block;
+  font-size: 30px;
+}
+
+.contactForm p {
+  text-align: left;
+  margin: 10px;
+}
+
+.contactForm button {
+  font-size: 25px;
+  background-color: aquamarine;
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.contactForm button:hover {
+  cursor: pointer;
+}
+
+.contactForm input, .contactForm textarea {
+  font-size: 20px;
+}
+
+.contactForm .error {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin: 0;
+  border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bálint",
+    "jobTitle": "fullstack developer"
+  },
+  {
+    "id": 2,
+    "name": "Andrea",
+    "jobTitle": "secretary administrator"
+  },
+  {
+    "id": 3,
+    "name": "Bálint",
+    "jobTitle": "frontend developer"
+  },
+  {
+    "id": 4,
+    "name": "András",
+    "jobTitle": "backend developer"
+  },
+  {
+    "id": 5,
+    "name": "Kristóf",
+    "jobTitle": "engineering manager"
+  },
+  {
+    "id": 6,
+    "name": "Zsófi",
+    "jobTitle": "office director"
+  }
+]

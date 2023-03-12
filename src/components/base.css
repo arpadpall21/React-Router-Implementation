@@ -1,0 +1,14 @@
+header {
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+header a {
+  margin: 2px;
+  padding: 5px 10px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}

@@ -1,0 +1,14 @@
+.breadcrumbs {
+  margin: 20px 10px 0 10px;
+}
+
+.breadcrumbs a {
+  font-size: 16px;
+  margin: 0;
+  padding: 3px;
+  color: grey;
+}
+
+.breadcrumbs a span {
+  text-decoration-line: underline;
+}

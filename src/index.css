@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: azure;
+}
+
+.navList {
+  list-style-type: none;
+}
+
+.active {
+  background-color: #bf80ff;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}

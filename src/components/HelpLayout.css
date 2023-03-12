@@ -1,0 +1,12 @@
+.help header, p{
+  text-align: center;
+  background-color: inherit;
+}
+
+.help header a {
+  background-color: aquamarine;
+}
+
+.help header .active {
+  background-color: #bf80ff;
+}

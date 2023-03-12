@@ -1,0 +1,11 @@
+.personel {
+  display: block;
+  background-color: rgba(191, 128, 255, .5);
+  margin: 15px;
+  padding: 10px;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+}

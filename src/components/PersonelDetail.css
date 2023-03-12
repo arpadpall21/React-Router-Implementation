@@ -1,0 +1,29 @@
+.backButtonContainer {
+  background-color: inherit;
+  margin: 10px;
+}
+
+.backButtonContainer a {
+margin: 2px;
+  padding: 5px 10px;
+  font-size: 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  background-color: aquamarine;
+  font-weight: 500;
+}
+
+.personelDetail {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  background-color: rgba(191, 128, 255, .25);
+  font-weight: 500;
+}
+
+.personelDetail p {
+  text-align: left;
+  padding: 7px 25px;
+  margin: 0
+}
